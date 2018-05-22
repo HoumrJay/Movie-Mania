@@ -4,7 +4,7 @@
 <p>NOTE: In order to run this code you need to register for your own API key here: <a href="https://www.themoviedb.org/account/signup">Get API key</a>.<br>Once you have the API key you need to put it in "FragmentPopularity.java" and "FragmentRating.java":</p>
 <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/api_key_screenshot.JPG">
 <h2>Screenshots<h2>
-<table>
+<table style="font-size:14px;">
 <tbody>
 <tr>
 <td width="33%">
@@ -16,8 +16,8 @@
 </tr>
   <tr>
   <td width="33%"><p>Grid Layout</p></td>
-    <td width="33%"><p>Detail 1 (Plot section)</p></td>
-      <td width="33%"><p>Detail 2 (Reviews section)</p></td>
+    <td width="33%"><p>Plot section</p></td>
+      <td width="33%"><p>Reviews section</p></td>
   </tr>
 <tr>
 <td width="33%">
@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/offline_detail.png"></td>
 </tr>
   <tr>
-  <td width="33%"><p>Detail 3 (Horizontal list of trailers)</p></td>
+  <td width="33%"><p>Horizontal list of trailers</p></td>
     <td width="33%"><p>Detil of a movie in the offline database</p></td>
   </tr>
 </tbody>
