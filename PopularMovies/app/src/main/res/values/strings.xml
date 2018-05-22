@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Movie Mania</string>
+
+
+    <string name="detail_image_description">Detail activity image</string>
+    <string name="mock_plot">Mock text for plot text view.</string>
+    <string name="mock_release_date">August 1990</string>
+    <string name="mock_rating">7.2</string>
+    <string name="mock_title">Lord of the Rings</string>
+    <string name="grid_layout_mock_rating">8.5</string>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string name="label_release_date">Release date:</string>
+    <string name="label_rating">Movie rating:</string>
+    <string name="label_plot">Plot</string>
+    <string name="label_title">Original title:</string>
+    <string name="user_name_label">User name:</string>
+
+    <string name="remove_button">Remove</string>
+    <string name="add_button">Add</string>
+    <string name="video_generic_text">Video teaser</string>
+    <string name="show_reviews">Reviews</string>
+    <string name="watch_trailers">Trailers</string>
+
+    <string name="add_to_favourite">The movie has been marked as favourite.</string>
+    <string name="is_among_favourite">This movie already is among favourite.</string>
+    <string name="remove_from_favourite">The movie has been successfully removed.</string>
+
+    <string name="no_reviews">Unfortunately, there are no reviews so far.</string>
+
+    <string name="help_label">Help</string>
+    <string name="guide_text">
+        \n
+    Dear user,
+        \n
+        \n
+        This application allows you, among other things, to watch and share video trailers. A simple
+        click allows you to open and watch a video and a long click (press and hold for about one second) allows
+        you to share the video link with your friends. \n
+        You can also click the heart button to mark/unmark a movie as your favourite and create a database of
+        favourite movies available offline. \n
+        I hope this application helps you to find interesting movies and spend some quality time watching them.
+        \n
+    </string>
+</resources>
