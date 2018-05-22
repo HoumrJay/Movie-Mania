@@ -15,9 +15,9 @@
     <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/detail2.png"></td>
 </tr>
   <tr>
-  <td width="33%">Grid Layout</td>
-    <td width="33%">Detail 1 (Plot section)</td>
-      <td width="33%">Detail 2 (Reviews section)</td>
+  <td width="33%"><p>Grid Layout</p></td>
+    <td width="33%"><p>Detail 1 (Plot section)</p></td>
+      <td width="33%"><p>Detail 2 (Reviews section)</p></td>
   </tr>
 <tr>
 <td width="33%">
@@ -26,8 +26,8 @@
     <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/offline_detail.png"></td>
 </tr>
   <tr>
-  <td width="33%">Detail 3 (Horizontal list of trailers)</td>
-    <td width="33%">Detil of a movie in the offline database</td>
+  <td width="33%"><p>Detail 3 (Horizontal list of trailers)</p></td>
+    <td width="33%"><p>Detil of a movie in the offline database</p></td>
   </tr>
 </tbody>
 </table>
