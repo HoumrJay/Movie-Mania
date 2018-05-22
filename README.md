@@ -3,10 +3,4 @@
 <p>User can also create their personal library of favourite movies that is available offline. A movie can be simply added or removed from the database by clicking on the heart shape in the detail activity.</p>
 <p>NOTE: In order to run this code you need to register for your own API key here: <a href="https://www.themoviedb.org/account/signup">Get API key</a>.<br>Once you have the API key you need to put it in "FragmentPopularity.java" and "FragmentRating.java" (simply replace <i>{replace with an API key}</i> with your key):</p>
 <img src="https://raw.githubusercontent.com/HoumrJay/Movie-Mania/master/PopMovies%20screenshots/api_key_screenshot.JPG">
-# Screenshots
-<table>
-<tbody>
-  <tr>
-    </tr>
-  </tbody>
-</table>
+<h2>Screenshots<h2>
