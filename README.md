@@ -1,4 +1,5 @@
 # Movie Mania
+<p><b>Keywords:</b> Recyclerview, AsyncTask, ViewPager, Fragments, ContentProvider, database, Parcelable.</p>
 <p>Movie Mania is an Android application developed as a student project for the Udacity Android Nanodegree Course. Organized grid layouts in the app provide users with lists of the most popular and top rated movies on www.themoviedb.com. A simple click on a movie poster redirects the user to the detail page that contains the title, release date, movie rating, plot, reviews and a list of trailers that can the user either watch (simple click) or share (long click).</p>
 <p>Another feature on the detail page is the heart-shaped favourite button that gives the user possibility to mark a movie as favourite and create a personal library (or a database, if you will) of movies which is ascessible offline.</p>
 <p>NOTE: In order to run this code you need to register for your own API key here: <a href="https://www.themoviedb.org/account/signup" target="_blank">Get API key</a>.<br>Once you have the API key you need to put it in "FragmentPopularity.java" and "FragmentRating.java":</p>
